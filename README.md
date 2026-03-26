@@ -1,5 +1,7 @@
 🚀 Daddy Of Management
 
+https://dadyofmanagement.vercel.app/
+
 «Turning chaos into control — one system at a time.»
 
 ---
